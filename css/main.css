@@ -63,8 +63,9 @@ html, body {
 .nav-item + .nav-item {
   margin-left: 1rem; }
 
+/* Aqui se cambia el alto de la caja de color */
 .cover {
-  height: 800px; }
+  height: 600px; }
 
 .cover > img {
   -o-object-fit: cover;
